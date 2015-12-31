@@ -1,4 +1,4 @@
-<a href="http://database.hanyang.ac.kr"><img src="https://github.com/u-ODM/core/blob/master/databaselab.jpg"/></a><a href="http://www.daou.com"><img src="https://github.com/u-ODM/core/blob/master/daou.jpg"/></a>
+<a href="http://database.hanyang.ac.kr"><img src="https://github.com/u-ODM/core/blob/master/databaselab.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.daou.com"><img src="https://github.com/u-ODM/core/blob/master/daou.jpg"/></a>
 
 
 한양대학교 데이터베이스 연구실, (주)다우기술과 함께 빅데이터 플랫폼 기반의 소프트웨어 제작을 위한 통합 ORM 프레임워크 개발을 목표로 합니다.

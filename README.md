@@ -1,8 +1,8 @@
 <a href="http://database.hanyang.ac.kr"><img src="https://github.com/u-ODM/core/blob/master/image/databaselab.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.daou.com"><img src="https://github.com/u-ODM/core/blob/master/image/daou.jpg"/></a>
 
 
-주관 기관: 한양대학교 데이터베이스 연구실
-참여 기관: (주)다우기술
+주관 기관: 한양대학교 데이터베이스 연구실</br>
+참여 기관: (주)다우기술</br>
 본 연구는 미래창조과학부가 지원한 2015년도 정보통신,방송 창조씨앗형 R&D사업의 연구로 진행되고 있습니다.
 
 Quickstart

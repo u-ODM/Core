@@ -1,4 +1,4 @@
-빅데이터 플랫폼 기반의 소프트웨어 제작을 위한 통합 ORM 프레임워크 개발
+<b>빅데이터 플랫폼 기반의 소프트웨어 제작을 위한 통합 ORM 프레임워크 개발</br>
 <a href="http://database.hanyang.ac.kr"><img src="https://github.com/u-ODM/core/blob/master/image/databaselab.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.daou.com"><img src="https://github.com/u-ODM/core/blob/master/image/daou.jpg"/></a>
 
 
